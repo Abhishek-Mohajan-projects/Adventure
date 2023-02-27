@@ -1,3 +1,30 @@
+@media only screen and (max-width: 1172px) {
+
+    .broad {
+        display: grid !important;
+        grid-template-columns: auto;
+        gap: 3rem !important;
+    }
+
+    .broad-2 {
+        max-width: 100% !important;
+    }
+
+    .spread {
+        text-align: center;
+    }
+
+    .spread h1 {
+        font-size: 1.6rem;
+    }
+
+
+
+
+}
+
+
+
 @media only screen and (max-width: 992px) {
     .width {
         text-align: center;
